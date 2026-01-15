@@ -11,11 +11,7 @@ This is what you need to know to get started with Vim-like editors, extensions, 
 
 
   <div style="flex-grow: 1; border:1px dashed Green">
-
-    <ul>
-      <li>cw</li>
-      <li>change word</li>
-      </ul>
+  cw change a word
 
   </div>
 </div>
